@@ -9,10 +9,14 @@ profile:
   image: DP_website_profile.png
   image_circular: false # crops the image to make it circular
   more_info: 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm Daniella Pretorius, a curious mind diving deep into the world of protein biochemistry and structural biology. Currently, I'm pursuing my PhD at Imperial College London in the [James W. Murray](https://profiles.imperial.ac.uk/j.w.murray/about) lab. My journey in science is fueled by a passion for unraveling the mysteries of proteins and designing novel structures that push the boundaries of bioengineering. I was also welcomed by The [Sergey Ovchinnikov](https://www.solab.org/home) group as a visiting PhD researcher at MIT.
+🌟 Hi there! I'm Daniella Pretorius, a passionate explorer in the fascinating realms of protein biochemistry and structural biology. Currently, I'm on an exciting journey pursuing my PhD at Imperial College London in the [James W. Murray](https://profiles.imperial.ac.uk/j.w.murray/about) lab. 🧬✨
+
+🔬 My scientific adventure is driven by an insatiable curiosity to unravel the mysteries of proteins and to innovate novel structures that push the boundaries of bioengineering. 🧪🔍
+
+🌍 I also had the incredible opportunity to join the [Sergey Ovchinnikov](https://www.solab.org/home) group as a visiting PhD researcher at MIT. This enriching experience has broadened my horizons and deepened my commitment to advancing our understanding of the biological world. 🌐🎓
 
