@@ -38,7 +38,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: False
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -63,6 +63,25 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
+# Navigation Links
+# -----------------------------------------------------------------------------
+
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "CV"
+    url: "/assets/pdf/Daniella_Pretorius_CV.pdf"  # Direct link to your PDF
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "News"
+    url: "/news/"
+
+
+# -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
@@ -81,7 +100,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: daniellapretorius
+linkedin_username: daniella-pretorius-protein-designer
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -90,7 +109,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
