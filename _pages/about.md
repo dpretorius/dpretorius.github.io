@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Candidate</a> at Imperial College London. Specializing in protein biochemistry x AI.
+subtitle: PhD Candidate at Imperial College London. Specializing in protein biochemistry x AI.
 
 profile:
   align: right
