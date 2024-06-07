@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at Imperial College London. Specializing in protein biochemistry x AI.
+subtitle: PhD Candidate at Imperial College London. Protein design. Biochemistry. AI interpretability.
 
 profile:
   align: right
