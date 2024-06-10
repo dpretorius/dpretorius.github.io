@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at Imperial College London. Protein design. Biochemistry. AI interpretability.
+subtitle: PhD Candidate at Imperial College London. **Protein design**. **Biochemistry**. **AI interpretability**.
 
 profile:
   align: right
@@ -14,9 +14,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-🌟 Hi there! I'm Daniella Pretorius, a passionate explorer in the fascinating realms of protein biochemistry and structural biology. Currently, I'm on an exciting journey pursuing my PhD at Imperial College London in the [James W. Murray](https://profiles.imperial.ac.uk/j.w.murray/about) lab. 🧬✨
+🌟 Hi there! I'm Daniella Pretorius, a PhD student at Imperial College London in the [James W. Murray lab](https://profiles.imperial.ac.uk/j.w.murray/about) as a part of the [EPSRC BioDesign CDT](https://www.imperial.ac.uk/synthetic-biology/cdt-biodesign-engineering/). I also had the incredible opportunity to join the [Sergey Ovchinnikov lab](https://www.solab.org/home) as a visiting PhD researcher at MIT.
 
-🔬 My scientific adventure is driven by an insatiable curiosity to unravel the mysteries of proteins and to innovate novel structures that push the boundaries of bioengineering. 🧪🔍
+🔬 My research interests lie in exploring protein space and designing novel proteins. I work in both wet and dry labs, taking ideas from the computer to experimentally determined structures. I'm particularly interested in using and manipulating ML models for protein structure and sequence, extracting insights to understand what these models learn, and using this information to guide protein design.
 
-🌍 I also had the incredible opportunity to join the [Sergey Ovchinnikov](https://www.solab.org/home) group as a visiting PhD researcher at MIT. This enriching experience has broadened my horizons and deepened my commitment to advancing our understanding of the biological world. 🌐🎓
+🧬 Before my PhD, I trained as a biochemist at Imperial College London and then went on to set up COVID-19 diagnostics labs with [OpenCell](https://www.opencell.bio/) during the pandemic. Outside of my academic career, I have an active art practice art 🎨, enjoy running 🏃‍♀️, and have a facination with snails 🐌. 
+
+📬 Feel free to reach out to chat!
+
 
