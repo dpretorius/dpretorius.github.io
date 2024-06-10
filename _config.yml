@@ -21,20 +21,6 @@ back_to_top: true # set to false to disable the back to top button
 
 # nav links 
 
-nav_links:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "CV"
-    url: "/assets/pdf/Daniella_Pretorius_CV.pdf"  # Direct link to your PDF
-  - title: "Blog"
-    url: "/blog/"
-  - title: "Publications"
-    url: "/publications/"
-  - title: "News"
-    url: "/news/"
-
 
 # -----------------------------------------------------------------------------
 # Theme
