@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 🔬 My research interests lie in exploring protein space and designing novel proteins. I work in both wet and dry labs, taking ideas from the computer to experimentally determined structures. I'm particularly interested in using and manipulating ML models for protein structure and sequence, extracting insights to understand what these models learn, and using this information to guide protein design.
 
-🧬 Before my PhD, I trained as a biochemist at Imperial College London and then went on to set up COVID-19 diagnostics labs with [OpenCell](https://www.opencell.bio/) during the pandemic. Outside of my academic career, I have an active art practice art 🎨, enjoy running 🏃‍♀️, and have a facination with snails 🐌. 
+🧬 Before my PhD, I trained as a biochemist at Imperial College London and then went on to set up COVID-19 diagnostics labs with [OpenCell](https://www.opencell.bio/) during the pandemic. Outside of my academic career, I have an active art practice 🎨, enjoy running 🏃‍♀️, and have a facination with snails 🐌. 
 
 📬 Feel free to reach out to chat!
 
