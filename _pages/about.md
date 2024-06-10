@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at Imperial College London. <strong>Protein design</strong>. <strong>Biochemistry</strong>. <strong>AI interpretability</strong>.
+subtitle: PhD Candidate at Imperial College London. **<span class="highlighted-text">Protein design</span>**. **<span class="highlighted-text">Biochemistry</span>**. **<span class="highlighted-text">AI interpretability</span>**.
 
 profile:
   align: right

@@ -33,6 +33,13 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
+  .highlighted-text {
+    color: var(--global-theme-color); /* Your theme's orange color */
+    background-color: var(--global-code-bg-color); /* Gray highlight */
+    border-radius: 3px;
+    padding: 3px 3px;
+  }
+
   #light-toggle-system {
     padding-left: 10px;
     padding-top: 12px;
